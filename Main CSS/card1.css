@@ -5,6 +5,8 @@
     padding:1em;
     background-color: aquamarine;
     margin: 0 auto;
+    border: chocolate;
+    border: solid;
 }
 
 .card-img-top {
