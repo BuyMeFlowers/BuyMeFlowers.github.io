@@ -6,7 +6,6 @@
     background-color: aquamarine;
     margin: 0 auto;
     border: chocolate;
-    border: solid;
 }
 
 .card-img-top {
@@ -14,4 +13,5 @@
     max-width: 100%;
     margin:1em;
     padding:1em;
+    margin: inherit;
 }
