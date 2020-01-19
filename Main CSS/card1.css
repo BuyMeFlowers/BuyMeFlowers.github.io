@@ -3,10 +3,10 @@
     max-width: 350px;
     margin:1em;
     padding:1em;
-    background-color: rgba(115, 102, 153, 0.938);
+    background-color: rgb(104, 95, 146);
     margin: 0 auto;
     border: double;
-    border:rgba(98, 98, 175, 0,7)
+    border: rosybrown;
     border-style: solid;
     border-radius: 10px;
 }
@@ -16,6 +16,6 @@
     max-width: 100%;
     margin:1em;
     padding:1em;
-    margin: 0 auto;
+    margin:auto;
     border-radius: 12%;
 }
